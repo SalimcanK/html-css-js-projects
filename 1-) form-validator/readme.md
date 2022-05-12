@@ -11,7 +11,7 @@ Simple client side form validation.
 - checkEmail() to validate email with regex
 - checkPasswordsMatch() to match confirm password
 
-## Edited by me
+## Edited by me(SalimcanK)
 
 - Removed checkRequired() function
 - User can't use space at all now. Removed trim() usage.
