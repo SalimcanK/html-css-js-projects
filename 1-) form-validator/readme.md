@@ -16,5 +16,5 @@ Simple client side form validation.
 - Removed checkRequired() function
 - User can't use space at all now. Removed trim() usage.
 - Confirm password error message has been removed because it was looking bad ui wise.
-- getFieldName() function is implemented different.
+- getFieldName() function is implemented differently.
 - Validation check before submitting is implemented in case the project is used to send data to actual backend.
